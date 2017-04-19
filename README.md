@@ -4,6 +4,6 @@
 
 # I concentrated on what I think is important while studying.
 
-# Environments : Ubuntu16.04 + cuda8.0 + cudnn5.1 + tensorflow1.0
+# Environments : Ubuntu16.04 + cuda8.0 + cudnn5.1 + tensorflow1.0 + GPU(750 TI)
 
 # Development tool : Pycharm
